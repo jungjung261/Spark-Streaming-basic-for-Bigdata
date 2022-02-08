@@ -1,6 +1,6 @@
 # Spark-Streaming-basic-for-Bigdata
 
-- That project used to demo how to Streaming work in Spark environment.
+- These project used to demo how to Streaming work in Spark environment.
 - Using: Python API.
 - Run project: Jupyter Notebook (Anaconda)
 
